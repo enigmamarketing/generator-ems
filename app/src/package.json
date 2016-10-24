@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "name": "emea-17673-customer-subscription-campaign",
+  "dependencies": {
+    "enigma-static-build": "0.0.2",
+    "gulp": "^3.9.1"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "generator-ems",
+  "version": "0.0.1",
+  "description": "Generators for Enigma Marketing Services.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enigmamarketing/generator-ems.git"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.24.1",
+    "yo": "^1.8.5"
+  }
+}
